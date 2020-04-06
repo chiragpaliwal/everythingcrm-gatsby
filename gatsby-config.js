@@ -7,9 +7,9 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
+    title: 'Everything CRM',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      'Full-stack Dynamics 365, Power Platform Consultant',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -27,11 +27,11 @@ module.exports = {
       },
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
+      name: 'Piyush Paliwal',
+      email: 'ppaliwal.89@gmail.com',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: '_ppaliwal',
+      github: 'piyushpaliwal',
       rss: '#',
       vk: '#',
     },
